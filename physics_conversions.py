@@ -12,7 +12,7 @@ bomb_mass = 1
 def f_to_c(f_temp):
   c_temp = (f_temp) * 5/9
 
-  return c_temps
+  return c_temp
 
 f100_in_celsius = f_to_c(100)
 print(f100_in_celsius)
